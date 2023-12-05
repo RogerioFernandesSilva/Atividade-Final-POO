@@ -1,5 +1,5 @@
 import { randomUUID } from 'crypto';
-import { users } from '../database/users';
+import { users } from '../database/user';
 import { Tweet } from './Tweet';
 
 export class User {

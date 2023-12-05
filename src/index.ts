@@ -1,6 +1,6 @@
 import { User } from './models/User';
 import { Tweet } from './models/Tweet';
-import { users } from './database/users';
+import { users } from './database/user';
 
 const rogerio = new User(
 	'Rogério',
